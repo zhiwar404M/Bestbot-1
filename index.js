@@ -59,6 +59,9 @@ bot.on("ready", () => {
     }
   });
 });
+////////
+client.login("ODM5NDE2MDg0NzY3MDQ3NzEw.GRxRVw.FfdkhPsjt9yzpCOOzJihnXWsyhnFNnbLE9MDrY")
+
 
 ////////
 bot.commands = new Collection();
